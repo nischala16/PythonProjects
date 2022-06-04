@@ -1,0 +1,65 @@
+print('''
+                                      ____                                         
+                              .-"    `-.      ,                               
+                            .'          '.   /j\                              
+                           /              \,/:/#\                /\           
+                          ;              ,//' '/#\              //#\          
+                          |             /' :   '/#\            /  /#\         
+                          :         ,  /' /'    '/#\__..--""""/    /#\__      
+                           \       /'\'-._:__    '/#\        ;      /#, """---
+                            `-.   / ;#\']" ; """--./#J       ':____...!       
+                               `-/   /#\  J  [;[;[;Y]         |      ;        
+""""""---....             __.--"/    '/#\ ;   " "  |     !    |   #! |        
+             ""--.. _.--""     /      ,/#\'-..____.;_,   |    |   '  |        
+                   "-.        :_....___,/#} "####" | '_.-",   | #['  |        
+                      '-._      |[;[;[;[;|         |.;'  /;\  |      |        
+                      ,   `-.   |        :     _   .;'    /;\ |   #" |        
+                      !      `._:      _  ;   ##' .;'      /;\|  _,  |        
+                     .#\"""---..._    ';, |      .;{___     /;\  ]#' |__....--
+          .--.      ;'/#\         \    ]! |       "| , """--./_J    /         
+         /  '%;    /  '/#\         \   !' :        |!# #! #! #|    :`.__      
+        i__..'%] _:_   ;##J         \      :"#...._!   '  "  "|__  |    `--.._
+         | .--""" !|""""  |"""----...J     | '##"" `-._       |  """---.._    
+     ____: |      #|      |         #|     |          "]      ;   ___...-"T,  
+    /   :  :      !|      |   _______!_    |           |__..--;"""     ,;MM;  
+   :____| :    .-.#|      |  /\      /#\   |          /'               ''MM;  
+    |""": |   /   \|   .----+  ;      /#\  :___..--"";                  ,'MM; 
+   _Y--:  |  ;     ;.-'      ;  \______/#: /         ;                  ''MM; 
+  /    |  | ;_______;     ____!  |"##"""MM!         ;                    ,'MM;
+ !_____|  |  |"#"#"|____.'""##"  |       :         ;                     ''MM  
+  | """"--!._|     |##""         !       !         :____.....-------"""""" |'
+  |          :     |______                        ___!_ "#""#""#"""#"""#"""|  
+__|          ;     |MM"MM"""""---..._______...--""MM"MM]                   |   
+  "\-.      :      |#                                  :                   |  
+    /#'.    |      /##,                                !                   |  
+   .',/'\   |       #:#,                                ;       .==.       |  
+  /"\'#"\',.|       ##;#,                               !     ,'||||',     |  
+        /;/`:       ######,          ____             _ :     M||||||M     |  
+       ###          /;"\.__"-._   """                   |===..M!!!!!!M_____|  
+                           `--..`--.._____             _!_                    
+                                          `--...____,="_.'`-.____        fsc
+     ''')
+
+
+
+print("Welcome to Hogwarts.")
+print("The sorting Hat will decide what house you belong in based on your choices.")
+print("You see two paths.Left has no trees and is a clear path. Right is in a forest and is dark.") 
+choice_1= input("L or R? ")
+if choice_1 == "L":
+  print("You have been sorted into the Slytherin house.")
+else:
+  print("You may proceed further.")
+  choice_2 =input("You reach a lake. Do you Swim(S) or Wait(W) for a boat?")
+  if choice_2 == "S":
+    print("You have been sorted into the Gryffindor house.")
+  else:
+    choice_3 = input("You see two boats. Do you choose Red(R) or Blue(B)?")
+    if choice_3 == "R":
+      print("You have been sorted into Hufflepuff.")
+    else:
+      print("You have been sorted into Ravenclaw.")
+
+
+
+
