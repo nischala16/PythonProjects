@@ -3,7 +3,7 @@
 | Project Link   | Area  | Description |
 |     :---:      | :---: | :---: |
 | [Calculator](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/BasicCalculator)| Programming | Basic Calculator
-|[BlackJack_game](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/BlackJack_game)| Programming | 
+|[BlackJack_game](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/BlackJack_game)| Programming | BlackJack Game
 |[BlindAuction](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/BlindAuction)| Programming | 
 |[Caesar Encrypt Decode](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/CaesarEncryptDecode)| Programming | 
 |[Coffee Machine](https://github.com/nischala16/PythonProjects/blob/main/Programming_practice/CoffeeMachine)| Programming | 
