@@ -56,11 +56,6 @@ Visualizations include bar charts of top product categories, boxplots of boundin
 - Jupyter Notebook  
 - Packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `jsonlines`
 
-You can install required packages via pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn jsonlines
-
 ## Next Steps
 Build recommendation models to predict complementary products based on scene context.
 
